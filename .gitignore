@@ -1,0 +1,26 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Ignore server directories
+crash-reports
+logs
+plugins
+world
+world_nether
+world_the_end
+
+# Ignore server files
+banned-ips.json
+banned-players.json
+bukkit.yml
+commands.yml
+eula.txt
+help.yml
+ops.json
+permissions.yml
+server.properties
+usercache.json
+whitelist.json
